@@ -1,13 +1,13 @@
 Date,Tactic,Revenue,Impressions,View-Duration (s),eRPA,CPS,Avg Duration/User
-2019-01-29,JB - PPG - H1 - 2019 - Whitelist - AWL,55.809,32746,273913,7.973,0.0002,8.4
-2019-01-29,JB - PPG - H1 - 2019 - Contextual - Travel,69.423,16907,117769,9.918,0.00059,7.0
 2019-01-29,JB - PPG - H1 - 2019 - Channel - Travel,479.126,93879,875010,10.889,0.00055,9.3
-2019-01-29,JB - RTG - H1 - 2019 - Visit Organic Traffic,134.008,13392,128824,1.411,0.00104,9.6
-2019-01-29,JB - PPG - H1 - 2019 - Discovery - Quality & Duration,3.222,1329,3008,3.222,0.00107,2.3
-2019-01-29,JB - PPG - H1 - 2019 - Audience - Frequent Flyers,73.343,15083,107090,0.0,0.00068,7.1
-2019-01-29,JB - RTG - H1 - 2019 - Search Organic Traffic,224.603,30392,235137,3.119,0.00096,7.7
-2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Top Urls - WL),680.214,87234,590886,15.819,0.00115,6.8
-2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Aggregators),72.548,10397,73470,0.0,0.00099,7.1
-2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Top Urls),435.803,64054,433011,4.789,0.00101,6.8
 2019-01-29,JB - RTG - H1 - 2019 - Visit - Fare Aggregators,151.77,10364,27705,0.0,0.00548,2.7
 2019-01-29,JB - PPG - H1 - 2019 - Audience - Frequent Flyers (v2),0.0,0,29,0.0,0.0,inf
+2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Aggregators),72.548,10397,73470,0.0,0.00099,7.1
+2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Top Urls),435.803,64054,433011,4.789,0.00101,6.8
+2019-01-29,JB - RTG - H1 - 2019 - Visit Organic Traffic,134.008,13392,128824,1.411,0.00104,9.6
+2019-01-29,JB - PPG - H1 - 2019 - Discovery - Quality & Duration,3.222,1329,3008,3.222,0.00107,2.3
+2019-01-29,JB - RTG - H1 - 2019 - Search Organic Traffic,224.603,30392,235137,3.119,0.00096,7.7
+2019-01-29,JB - PPG - H1 - 2019 - Audience - Frequent Flyers,73.343,15083,107090,0.0,0.00068,7.1
+2019-01-29,JB - PPG - H1 - 2019 - Audience - Intent (Top Urls - WL),680.214,87234,590886,15.819,0.00115,6.8
+2019-01-29,JB - PPG - H1 - 2019 - Contextual - Travel,69.423,16907,117769,9.918,0.00059,7.0
+2019-01-29,JB - PPG - H1 - 2019 - Whitelist - AWL,55.809,32746,273913,7.973,0.0002,8.4
